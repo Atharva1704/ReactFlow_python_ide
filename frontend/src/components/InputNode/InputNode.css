@@ -1,0 +1,87 @@
+/* .glassmorphism {
+    background: rgba(255, 255, 255, 0.1); 
+    backdrop-filter: blur(10px); 
+    border-radius: 15px; 
+    padding: 30px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    border: 1px solid rgba(255, 255, 255, 0.2); 
+    color: white; 
+    max-width: 400px;
+    margin: 50px auto; 
+    text-align: center; 
+    width: 15vw;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+    display: block;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #333;
+    appearance: none;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+}
+
+select:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+option {
+    padding: 10px;
+}
+
+option:hover {
+    background-color: #f0f0f0;
+}
+
+select:focus option:hover {
+    background-color: #d3e0f0;
+}
+
+.input-field {
+    width: 80%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #333;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.input-field:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.input-field::placeholder {
+    color: #888;
+}
+
+.handle {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 16px;
+    height: 16px;
+    background-color: #007bff;
+    border-radius: 50%;
+} */
